@@ -1,0 +1,15 @@
+h1 {text-align: center; font-family:cursive; 
+background-color: rgb(255, 130, 149);
+ border: 5px solid black;
+ border-style: dotted;
+}
+
+h2{text-align: center; font-family:Brush Script MT;
+}
+ul {background-color: rgb(248, 193, 193); text-align: center; 
+width:130px; margin-left:250px ;border:4px   dashed black;
+
+
+}
+
+a{text-decoration:none;
